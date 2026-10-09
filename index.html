@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Hypnozys</title>
+        <link rel="stylesheet" href="site/styles/common.css" />
+        <link rel="stylesheet" href="site/styles/menu.css" />
+        <link rel="stylesheet" href="site/styles/fonts.css" />
+        <link rel="stylesheet" href="site/styles/gallery.css" />
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    </head>
+    <body>
+        <div class="content-container">
+            <div class="remaining">
+                <div class="page-content">
+                    <div class="gallery" id="gallery"></div>
+                    <div class="gallery-control" id="gallery-control">
+                        <div class="gallery-image-no-container">
+                            <span>Number of images</span>
+
+                            <span id="image-count"></span>
+                        </div>
+                        <div class="gallery-image-no-container">
+                            <span>Image number</span>
+                            <input
+                                class="gallery-image-no"
+                                type="text"
+                                inputmode="numeric"
+                                pattern="[0-9]*"
+                                placeholder="Enter image number"
+                            />
+                        </div>
+                        <span class="gallery-image-next">Next image</span>
+                        <span class="gallery-image-previous"
+                            >Previous image</span
+                        >
+                    </div>
+                </div>
+            </div>
+            <div class="menu">
+                <span>Menu</span>
+                <a href="index.html">Gallery</a>
+                <a href="site/pages/about.html">About</a>
+                <a href="site/pages/biography.html">Biography</a>
+                <a href="site/pages/contact.html">Contact</a>
+            </div>
+        </div>
+
+        <script src="site/scripts/menu.js"></script>
+        <script src="site/scripts/gallery.js"></script>
+    </body>
+</html>

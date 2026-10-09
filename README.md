@@ -2,11 +2,11 @@
 
 A collection of my drawings.
 
-Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/), [Krita](https://krita.org/en/).
+Used software: [Gimp](https://www.gimp.org/)
 
-## Abstract
+## Web site
 
-<img src="./images/art 1/art 1.png" width="900" alt="drawing 1">
+https://splatter-graffiti.github.io/hypnozys/
 
 ---
 
