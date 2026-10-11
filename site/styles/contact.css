@@ -6,5 +6,8 @@
     font-family: "TrenchThin";
     font-size: 17px;
     font-weight: bold;
-    color: gray;
+
+    color: rgb(59, 21, 21);
+    background-color: #fd5ea3;
+    padding: 30px;
 }

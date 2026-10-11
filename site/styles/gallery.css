@@ -14,7 +14,6 @@
     padding: 10px;
     margin: 10px;
 
-    background-color: #161012;
     width: 900px;
     height: 541px;
 
@@ -39,7 +38,10 @@
     font-family: "TrenchThin";
     font-weight: bold;
     font-size: 17px;
-    color: gray;
+    color: rgb(53, 19, 19);
+
+    background-color: #fd5ea3;
+    padding: 10px;
 }
 
 .image-loading {
