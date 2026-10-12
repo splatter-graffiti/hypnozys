@@ -16,6 +16,7 @@
 
     width: 900px;
     height: 541px;
+    background-color: rgb(0, 0, 0);
 
     display: flex;
     justify-content: center;
